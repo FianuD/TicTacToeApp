@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angulartictactoe-b4975": {
+      "hosting": {
+        "TicTacToeApp": [
+          "angulartictactoe-b4975"
+        ]
+      }
+    }
+  }
+}
